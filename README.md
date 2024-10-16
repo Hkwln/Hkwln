@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Paul
+- 👀 I’m interested in using new programming language
+- 🌱 I’m currently learning to create an easy machine learning program in python with the mnist dataset, the second thing i am doing is creating an android ble app,
+-   because i wanted to create bluetooth headphones by myself
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Hkwln/Hkwln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
